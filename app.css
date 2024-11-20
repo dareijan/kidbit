@@ -1,0 +1,22 @@
+
+#map {
+    height: 600px;
+}
+
+indeksi{
+  width: 300px;
+  background: #eee;
+}
+
+#kehys{
+  width: 100%;
+  height: 100vw;
+  display: flex;
+}
+
+.indeksi-elmentti{
+  margin: 5px;
+  margin-bottom: 10px;
+  border: 0px solid #ccc;
+  cursor: pointer;
+}
