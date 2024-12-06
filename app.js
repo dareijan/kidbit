@@ -24,6 +24,8 @@ function createindeksiElement(layer, otsikko){
 }
 
 function zoomaaMarkkeriin(e){
+  map.setZoom(16);
+
   var clickedElm = e.target;
   var markerId = clickedElm.getAttribute('data-marker');
   
