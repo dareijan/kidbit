@@ -38,20 +38,6 @@ var paikatdata = [
         "Hiihtomaantie 74, opaste Halssilanrinne -tieltä",
         "Lenkkeilypolkuja, hiihtolatuja, grillikota, kiipeilyteline ja vaijeriliuku. Parkkipaikka.",
         "Talvisin suosittu mäenlaskupaikka Pulkkamaa, valaistu mäki."
-    ]
-
-
-    ,
-    [
-        62.259,
-        25.698,
-        "Laajavuoren kylpylä",
-        "Ma–to klo 8.00–21.00",
-        "Pe–la klo 8.00–22.00",
-        "Su klo 8.00–20.00",
-        "Pikkulasten allas. Aikuisten altaassa matalia kohtia. Vesihierontapisteitä. Erilaisia saunoja.",
-        "Allasosasto sulkeutuu 30 min ennen kylpylän sulkemista.",
-        "<a href=https://www.scandichotels.fi/hotellit/suomi/jyvaskyla/scandic-laajavuori/kylpyla>Laajavuoren kylpylä</a>"
     ],
     [
         62.25036150560382, 25.867239039489267,
@@ -70,7 +56,7 @@ var paikatdata = [
     ],
     [
         62.23958732100325, 25.84705916677479,
-        "Pilkkimahdollisuus",
+        "Pilkkimahdollisuus, Haapalahden venesatama",
         "Helposti saavutettavissa olevat pilkkipaikat laiturien alkupäissä"
     ],
     [

@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', function () {
     // Create a map instance and set the initial view coordinates and zoom level
-    var map = L.map('map').setView([62.24, 25.77], 13);
+    var map = L.map('map').setView([62.24, 25.77], 18);
   
 
     // Add a tile layer to the map from OpenStreetMap
@@ -24,13 +24,14 @@ function createindeksiElement(layer, otsikko){
 }
 
 function zoomaaMarkkeriin(e){
-  map.setZoom(16);
 
   var clickedElm = e.target;
   var markerId = clickedElm.getAttribute('data-marker');
   
   var marker = featuremappi.getLayer(markerId);
   map.panTo(marker.getLatLng());
+  map.setView(marker.getLatLng(), 14.5);
+
 }
 
 var featuremappi = L.featureGroup().addTo(map);
@@ -57,6 +58,7 @@ for (let i = 0; i < paikatdata.length; i++) {
     marker.bindPopup("<b>"+[rivi[2]+"</b>",rivi[3],rivi[4],rivi[5],rivi[6],rivi[7],rivi[8]].join("<br><br>"));
   }    
   createindeksiElement(marker, rivi[2]);
+
 }
 
 

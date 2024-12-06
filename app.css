@@ -14,9 +14,19 @@ indeksi{
   display: flex;
 }
 
-.indeksi-elmentti{
+.indeksi-elmentti, a, a:visited{
   margin: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   border: 0px solid #ccc;
   cursor: pointer;
+  text-decoration: none; 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:black;
+}
+.indeksi-elmentti:hover{
+  color:rgb(30, 79, 170);
+}
+
+a:hover{
+  color:rgb(30, 79, 170);
 }
