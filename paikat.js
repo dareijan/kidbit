@@ -115,6 +115,13 @@ var paikatdata = [
         "Observatoriolla näet kohteita jotka on milloinkin parhaiten näkyvissä.",
         "Linkki:<a href=https://https://www.facebook.com/rihlaperantahtitorni>Rihlaperän tähtitornin Facebook-sivut</a>",
         "Linkki:<a href=https://www.ursa.fi/blogi/sirius/tahtinaytannot/>Jyväskylän Sirius ry - Tähtinäytännöt</a>"      
+    ],
+    [
+        62.249493768896656, 25.66270533971988,
+        "Kortepohjan talli",
+        "Kavioura 5",
+        "Alkeisratsastustunteja lauantaisin ja sunnuntaisin",
+        "Linkki: 62.249493768896656, 25.66270533971988"
     ]
 
 ]
