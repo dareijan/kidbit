@@ -15,7 +15,7 @@ var paikatdata = [
         "Laajis seikkailupuisto",
         "Koko perheen seikkailumaa",
         "09:45-18:00 ks. kotisivut ",
-        "<a href=https://laajis.fi/>Laajis</a>"
+        "Linkki:<a href=https://laajis.fi/>Laajis</a>"
     ]
     ,
     [
@@ -27,7 +27,7 @@ var paikatdata = [
         "Su klo 8.00–20.00",
         "Pikkulasten allas. Aikuisten altaassa matalia kohtia. Vesihierontapisteitä. Erilaisia saunoja.",
         "Allasosasto sulkeutuu 30 min ennen kylpylän sulkemista.",
-        "<a href=https://www.scandichotels.fi/hotellit/suomi/jyvaskyla/scandic-laajavuori/kylpyla>Laajavuoren kylpylä</a>"
+        "Linkki:<a href=https://www.scandichotels.fi/hotellit/suomi/jyvaskyla/scandic-laajavuori/kylpyla>Laajavuoren kylpylä</a>"
     ]
 
 
@@ -47,7 +47,7 @@ var paikatdata = [
         "Pe klo 16.30-17.45 (mailaton), klo 18.00-19.15 (mailallinen)",
         "La klo 11.00-12.30  (mailaton), klo 12.45-14.15 (mailallinen)",
         "Su klo 10.00-11.30 (mailallinen), klo 11.45-13.15 (mailaton)",
-        "<a href=https://www.jyvaskyla.fi/liikunta/liikuntapaikat/jaahallit-ja-luistelupaikat/yleisoluistelu >Yleisöluistelu Jyväskylässä</a>"
+        "Linkki:<a href=https://www.jyvaskyla.fi/liikunta/liikuntapaikat/jaahallit-ja-luistelupaikat/yleisoluistelu >Yleisöluistelu Jyväskylässä</a>"
     ],
     [
         62.254652279548004, 25.865108642304595,
@@ -57,7 +57,8 @@ var paikatdata = [
     [
         62.23958732100325, 25.84705916677479,
         "Pilkkimahdollisuus, Haapalahden venesatama",
-        "Helposti saavutettavissa olevat pilkkipaikat laiturien alkupäissä"
+        "Helposti saavutettavissa olevat pilkkipaikat, myös laiturien alkupäissä",
+        "(Tammirinteen alakoululaiset ovat käyneet täällä)"
     ],
     [
         62.21721527194705, 25.799246289473984,
@@ -92,7 +93,7 @@ var paikatdata = [
     [62.237171663308274, 25.84122321463764,
         "Jyskän uimaranta",
         "Sievisenmäentie 18",
-        "Laituri,, pukukoppeja. Hyppytorni ei käytössä- Lyhyen kävelymatkan päässä mäessä. Lähellä Iso-Haapasaaren luontopolku"
+        "Laituri, pukukoppeja. Hyppytorni ei käytössä- Lyhyen kävelymatkan päässä mäessä. Lähellä Iso-Haapasaaren luontopolku"
     ],
     [62.24092262194328, 25.67669706776628,
         "Köhniön uimaranta",
@@ -105,7 +106,16 @@ var paikatdata = [
         "Alasinkatu 7",
         "Ma-Pe: 10:00-20:00",
         "La-Su: 09:00-20:00*",
-        "<a href=https://www.hoplop.fi/sisaleikkipuisto/jyvaskyla/>HopLop Jyväskylä</a>"
-    ]    
+        "Linkki:<a href=https://www.hoplop.fi/sisaleikkipuisto/jyvaskyla/>HopLop Jyväskylä</a>"
+    ],
+    [62.23458153745064, 25.702740490237233,
+        "Rihlaperän tähtitorni",
+        "Su: 19:00-20:00  (marraskuusta maaliskuhun selkeällä säällä) vapaaehtoinen 5 / 2 euron pääsymaksu käteisellä",
+        "Tarkemmat näytösajat: https://www.facebook.com/rihlaperantahtitorni",
+        "Observatoriolla näet kohteita jotka on milloinkin parhaiten näkyvissä.",
+        "Linkki:<a href=https://https://www.facebook.com/rihlaperantahtitorni>Rihlaperän tähtitornin Facebook-sivut</a>",
+        "Linkki:<a href=https://www.ursa.fi/blogi/sirius/tahtinaytannot/>Jyväskylän Sirius ry - Tähtinäytännöt</a>"      
+    ]
+
 ]
 

@@ -3,16 +3,21 @@
     height: 450px;
 }
 
-indeksi{
-  width: 300px;
+
+.indeksi{
+  font-size: medium;
+  width: 200px;
   background: #eee;
 }
 
-#kehys{
-  width: 100%;
-  height: 100vw;
-  display: flex;
+.paaindeksi{
+  font-size: medium;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(187, 184, 184);
+  margin: 5px;
+  margin-top:30px;
 }
+
 
 .indeksi-elmentti, a, a:visited{
   margin: 5px;
